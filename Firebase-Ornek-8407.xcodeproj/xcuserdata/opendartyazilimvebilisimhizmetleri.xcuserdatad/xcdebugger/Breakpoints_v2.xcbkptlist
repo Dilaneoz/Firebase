@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7B098704-DED5-4920-B002-736DC9A6EB82"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B37B1F0-FE0E-4526-9A41-A57119C9CBF6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77F1A21B-F015-47A2-8586-CA52626BF1AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "77F1A21B-F015-47A2-8586-CA52626BF1AD - 185aaef90fb1c6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Firebase_Ornek_8407.YeniTutorialViewController.tutorialYukle() -&gt; ()"
+                  moduleName = "Firebase-Ornek-8407"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/opendartyazilimvebilisimhizmetleri/Documents/bilgeadam-swift-8407/Firebase-Ornek-8407/Firebase-Ornek-8407/YeniTutorialViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "77F1A21B-F015-47A2-8586-CA52626BF1AD - 7fa2897f49ee0699"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in Firebase_Ornek_8407.YeniTutorialViewController.tutorialYukle() -&gt; ()"
+                  moduleName = "Firebase-Ornek-8407"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/opendartyazilimvebilisimhizmetleri/Documents/bilgeadam-swift-8407/Firebase-Ornek-8407/Firebase-Ornek-8407/YeniTutorialViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "189">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BE36147-C7E9-48C6-8FC1-1E27F6C407D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EF4577A-4C69-4ACD-BB84-A3B29F46A5B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "418EAECF-68A9-4E3B-8477-ABDD76BD012E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "749281B2-BCF8-4474-8D94-0BE867089D45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F96DE15-859A-4885-9F91-ADEF6CE14F7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEB01731-5897-4675-B6A5-A7B961E1318D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "977A9975-4139-4754-B029-C7A1EAB45A36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB9FFF73-6FF8-4C75-8B68-B92B798EA07D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB9FFF73-6FF8-4C75-8B68-B92B798EA07D - 7fa2897f49ee065f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in Firebase_Ornek_8407.YeniTutorialViewController.tutorialYukle() -&gt; ()"
+                  moduleName = "Firebase-Ornek-8407"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/opendartyazilimvebilisimhizmetleri/Documents/bilgeadam-swift-8407/Firebase-Ornek-8407/Firebase-Ornek-8407/YeniTutorialViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1365">
+               </Location>
+               <Location
+                  uuid = "FB9FFF73-6FF8-4C75-8B68-B92B798EA07D - 7fa2897f49ee065f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in Firebase_Ornek_8407.YeniTutorialViewController.tutorialYukle() -&gt; ()"
+                  moduleName = "Firebase-Ornek-8407"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/opendartyazilimvebilisimhizmetleri/Documents/bilgeadam-swift-8407/Firebase-Ornek-8407/Firebase-Ornek-8407/YeniTutorialViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1704">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B47BD2B-E466-4F2C-9AAD-BFC7ACF38A1C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B47BD2B-E466-4F2C-9AAD-BFC7ACF38A1C - 7fa2897f49ee067e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in Firebase_Ornek_8407.YeniTutorialViewController.tutorialYukle() -&gt; ()"
+                  moduleName = "Firebase-Ornek-8407"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/opendartyazilimvebilisimhizmetleri/Documents/bilgeadam-swift-8407/Firebase-Ornek-8407/Firebase-Ornek-8407/YeniTutorialViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "974">
+               </Location>
+               <Location
+                  uuid = "3B47BD2B-E466-4F2C-9AAD-BFC7ACF38A1C - 7fa2897f49ee067e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in Firebase_Ornek_8407.YeniTutorialViewController.tutorialYukle() -&gt; ()"
+                  moduleName = "Firebase-Ornek-8407"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/opendartyazilimvebilisimhizmetleri/Documents/bilgeadam-swift-8407/Firebase-Ornek-8407/Firebase-Ornek-8407/YeniTutorialViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1313">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24388CC7-EBE1-4601-8442-A6BAC34001CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B404FAFD-81FF-4706-BEA7-58F4BD4BAF1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B404FAFD-81FF-4706-BEA7-58F4BD4BAF1A - 7fa2897f49ee061d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in Firebase_Ornek_8407.YeniTutorialViewController.tutorialYukle() -&gt; ()"
+                  moduleName = "Firebase-Ornek-8407"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/opendartyazilimvebilisimhizmetleri/Documents/bilgeadam-swift-8407/Firebase-Ornek-8407/Firebase-Ornek-8407/YeniTutorialViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "B404FAFD-81FF-4706-BEA7-58F4BD4BAF1A - 7fa2897f49ee061d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in Firebase_Ornek_8407.YeniTutorialViewController.tutorialYukle() -&gt; ()"
+                  moduleName = "Firebase-Ornek-8407"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/opendartyazilimvebilisimhizmetleri/Documents/bilgeadam-swift-8407/Firebase-Ornek-8407/Firebase-Ornek-8407/YeniTutorialViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "198917A3-A251-4572-A003-B740E28B71D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Ornek-8407/YeniTutorialViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "tutorialYukle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
